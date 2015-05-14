@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="threeJS/wip/proxies/|threeJS/curves/|threeJS/loaders/gltf/|threeJS/loaders/deprecated/|threeJS/|threeJS/modifiers/|threeJS/cameras/|threeJS/math/|threeJS/wip/benchmark/|threeJS/controls/|threeJS/postprocessing/|threeJS/utils/|threeJS/crossfade/|threeJS/renderers/plugins/|threeJS/effects/|threeJS/renderers/|threeJS/loaders/ctm/|threeJS/shaders/|threeJS/loaders/|threeJS/libs/|threeJS/exporters/|threeJS/geometries/|threeJS/wip/|threeJS/objects/" kind="src" path="js"/>
+	<classpathentry excluding="wip/proxies/|curves/|loaders/gltf/|loaders/deprecated/|modifiers/|cameras/|math/|wip/benchmark/|controls/|postprocessing/|utils/|crossfade/|renderers/plugins/|effects/|renderers/|loaders/ctm/|shaders/|loaders/|libs/|exporters/|geometries/|wip/|objects/" kind="src" path="js/threeJS"/>
+	<classpathentry kind="src" path="js/threeJS/cameras"/>
+	<classpathentry kind="src" path="js/threeJS/controls"/>
+	<classpathentry kind="src" path="js/threeJS/crossfade"/>
+	<classpathentry kind="src" path="js/threeJS/curves"/>
+	<classpathentry kind="src" path="js/threeJS/effects"/>
+	<classpathentry kind="src" path="js/threeJS/exporters"/>
+	<classpathentry kind="src" path="js/threeJS/geometries"/>
+	<classpathentry kind="src" path="js/threeJS/libs"/>
+	<classpathentry excluding="gltf/|deprecated/|ctm/" kind="src" path="js/threeJS/loaders"/>
+	<classpathentry kind="src" path="js/threeJS/loaders/ctm"/>
+	<classpathentry kind="src" path="js/threeJS/loaders/deprecated"/>
+	<classpathentry kind="src" path="js/threeJS/loaders/gltf"/>
+	<classpathentry kind="src" path="js/threeJS/math"/>
+	<classpathentry kind="src" path="js/threeJS/modifiers"/>
+	<classpathentry kind="src" path="js/threeJS/objects"/>
+	<classpathentry kind="src" path="js/threeJS/postprocessing"/>
+	<classpathentry excluding="plugins/" kind="src" path="js/threeJS/renderers"/>
+	<classpathentry kind="src" path="js/threeJS/renderers/plugins"/>
+	<classpathentry kind="src" path="js/threeJS/shaders"/>
+	<classpathentry kind="src" path="js/threeJS/utils"/>
+	<classpathentry excluding="proxies/|benchmark/" kind="src" path="js/threeJS/wip"/>
+	<classpathentry kind="src" path="js/threeJS/wip/benchmark"/>
+	<classpathentry kind="src" path="js/threeJS/wip/proxies"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
