@@ -1,7 +1,6 @@
 var scene = new THREE.Scene();
 var aspect = window.innerWidth / window.innerHeight;
 var camera = new THREE.PerspectiveCamera(75, aspect, 0.1, 1000);
-camera.radius = 1.5;
 var renderer = new THREE.WebGLRenderer();
 renderer.setSize(window.innerWidth, window.innerHeight);
 
@@ -53,6 +52,7 @@ camera.position.z = 5;
 var controls = new THREE.OrbitControls(camera);
 controls.noPan = true;
 controls.minDistance = 1.25;
+controls.maxDistance = 2.1;
 
 teams = [];
 
